@@ -1,1 +1,2 @@
 # designpatternproject
+this is factory
